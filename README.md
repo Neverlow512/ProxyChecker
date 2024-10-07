@@ -20,8 +20,8 @@ You have two options to get Proxy Checker:
 1. **Download Compiled Version (Windows and MacOS Intel-based)**:
    - Visit our [GitHub Releases](https://github.com/Neverlow512/ProxyChecker/releases) page.
    - Download the latest version for your operating system:
-     - Windows: `ProxyChecker-Windows.zip`
-     - MacOS (Intel-based): `ProxyChecker-MacOS-Intel.zip`
+     - Windows: `ProxyChecker-Windows(Release)`
+     - MacOS (Intel-based): `ProxyChecker-MacOS-Intel(Release Intel)`
    - Note: A compiled version for Silicon-based Macs is not currently available.
 
 2. **Use Uncompiled Source Code (All platforms, including Silicon-based Macs)**:
