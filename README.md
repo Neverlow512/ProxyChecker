@@ -22,7 +22,7 @@ You have two options to get Proxy Checker:
    - Download the latest version for your operating system:
      - Windows: `ProxyChecker-Windows(Release)`
      - MacOS (Intel-based): `ProxyChecker-MacOS-Intel`
-   - Note: A compiled version for Silicon-based Macs is not currently available.
+   - Note: A compiled version for Silicon-based Macs is not currently available. You can compile it yourself though.
 
 2. **Use Uncompiled Source Code (All platforms, including Silicon-based Macs)**:
    - Clone the repository: `git clone https://github.com/Neverlow512/ProxyChecker.git`
