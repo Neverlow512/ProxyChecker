@@ -116,11 +116,11 @@ After compilation (if chosen), the executable or application bundle will be avai
 - For any issues, try running the application as an administrator.
 - For Windows users, make sure you have the Microsoft Visual C++ Redistributable for Visual Studio 2015-2022 installed.
 
-## Support
+## Contact
+For inquiries, collaborations, or further information, please contact:  
+**Email:** neverlow512@proton.me
 
-For updates and support, follow me on:
-- [X.com](https://x.com/traffic_goat)
-- [Reddit.com](https://www.reddit.com/user/Neverlow512/)
+**GitHub:** [github.com/Neverlow512](https://github.com/Neverlow512)
 
 ## Legal
 
